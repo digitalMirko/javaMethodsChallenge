@@ -45,3 +45,10 @@ public class Main {
     }
 
 }
+
+/*  Output:
+Johnny managed to get into position 1 on the high score table
+David managed to get into position 2 on the high score table
+Jan managed to get into position 3 on the high score table
+Wilma managed to get into position 4 on the high score table
+ */
