@@ -14,4 +14,4 @@ Create a 2nd method called calculateHighScorePosition. It should be sent one arg
 
 4 in all the other cases
 
-call both methods and display the results of the following a score of 1500, 900, 400, and 50
+Call both methods and display the results of the following a score of 1500, 900, 400, and 50
